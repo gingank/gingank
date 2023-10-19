@@ -1,14 +1,14 @@
 
 ### Hi, there. I'm GG 👋
 
-I'm a just a newbie programmer from Shah Alam, Malaysia.
+I'm a newbie programmer from Shah Alam, Malaysia.
 
--🔭 I'm currently working on shippng company in Malaysia.  
--🌱 I'm currently learning php, javascript, mysql and etc.  
--👯 I'm looking to collaborate on any kind of project so I can learn as much as I can.  
--💬 Ask me about [Topics you're knowledgeable in, e.g., "Web Development, Hiking"].  
--📫 How to reach me: gingank@gmail.com.].  
--⚡ Fun fact: I like to sleep and I enjoy dreaming.  
+-🔭 I'm currently working at a shippng company in Malaysia.  
+-🌱 I'm currently learning php, javascript, mysql and more.  
+-👯 I'm looking to collaborate on any kind of project to learn as much as I can.  
+-💬 Ask me about web development or any tech-related topics...  
+-📫 How to reach me: gingank@gmail.com.  
+-⚡ Fun fact: I love to sleep and enjoy dreaming.  
 
 <!--
 **gingank/gingank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
